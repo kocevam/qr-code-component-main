@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  
+}
+
+.card-body {
+  background-color: hsl(0, 0%, 100%);
+  width: 350px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.qr-code-image {
+  border-radius: 20px;
+  width: 320px;
+  padding: 10px;
+}
+
+.card-text {
+  text-align: center;
+  font-size: 15px;
+  font: Outfit;
+  font-family: 'Outfit', sans-serif;
+  margin: 20px 35px;
+padding-bottom: 30px;
+}
+
+
+p {
+  font-weight: 400;
+  color:  hsl(220, 15%, 55%);
+}
